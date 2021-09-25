@@ -1,7 +1,7 @@
 body{
-	background-image: url("https://thumbs.dreamstime.com/z/ingredients-making-pizza-wooden-background-top-view-free-space-your-text-151184914.jpg");
+	background-image:url("https://pizzapronto-rheinbach.de/wp-content/uploads/2020/06/tasty-vegetarian-pizza-on-dark-background-3W9XHQ2-min.jpg;");
 	background-repeat: no-repeat;
-	background-size: cover;
+
 }
 
 .topnav {
@@ -77,7 +77,7 @@ body{
   }
 
   #add_toppings{
-    padding-left:30px;
+	/* padding-left:30px; */
 	width:150px;
 	height:100px;
 	border: none;
@@ -110,8 +110,4 @@ body{
 #im1{
 	width:100px;
 	height: 80px;
-}
-
-#menu_div{
-	padding-left: 50;
 }
